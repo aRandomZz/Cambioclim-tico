@@ -13,3 +13,6 @@ Bot que enseñe la importancia de trabajar en beneficio del medio ambiente para 
    - Database para el usuario --- $stats
 6. Redirección a páginas web sobre el cambio climático --- $infoweb
 7. Un $help para obtener los comandos básicos
+
+## Librerías ##
+discord
