@@ -1,3 +1,4 @@
+## IDEA ##
 Bot que enseñe la importancia de trabajar en beneficio del medio ambiente para reducir el cambio climático
 ¿Cómo?
 1. Información útil sobre tres (o cinco) R's --- $rinfo
